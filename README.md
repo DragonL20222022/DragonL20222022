@@ -15,3 +15,7 @@ dixiy
 
 its time 
 nowe start
+jianmian
+jiuxianzai
+go to file
+readme
