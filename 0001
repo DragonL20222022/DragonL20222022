@@ -14,3 +14,32 @@ zoubao
 game dragon
 dragonl22
 maybe
+.panel-progress {
+    background: #3498db;
+}
+
+.identicon rect {
+    fill: #333;
+}
+
+.panel-warning .identicon rect {
+    fill: #fff;
+}
+
+.li-column {
+    background-color: rgb(236, 240, 241);
+    border-radius: 3px;
+}
+
+.panel-heading:hover, .panel-heading:focus {
+    text-decoration: none;
+}
+
+/*
+ * Fancytree tweaks
+ */
+
+.fancytree-container tr:hover,
+.fancytree-focused {
+    background-color: #eeeeee;
+}
