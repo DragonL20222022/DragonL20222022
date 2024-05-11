@@ -41,5 +41,8 @@ maybe
 
 .fancytree-container tr:hover,
 .fancytree-focused {
+ or gamm 
+   and gm
+ 
     background-color: #eeeeee;
 }
